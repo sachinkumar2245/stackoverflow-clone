@@ -27,7 +27,7 @@ This is a fully functional clone of the stack overflow website, built using next
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stackoverflow-clone.git
+   git clone https://github.com/sachinkumar2245/stackoverflow-clone.git
    ```
 2. Navigate to the project directory:
    ```bash
